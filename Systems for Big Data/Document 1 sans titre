@@ -1,0 +1,1 @@
+sudo docker run --name spark_lab -it --rm -p 8888:8888 jupyter/pyspark-notebook
